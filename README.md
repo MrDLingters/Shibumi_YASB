@@ -1,5 +1,5 @@
 # Shibumi
-Minimalistic YASB config with several color schemes included.
+Hyprland inspired minimalistic bar with several color schemes available in one CSS.
 
 <img width="3839" height="2159" alt="Screenshot 2026-06-08 010253" src="https://github.com/user-attachments/assets/dfd408e5-2b98-4d3e-be0b-1e503507a2cb" />
 
