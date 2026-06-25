@@ -89,15 +89,15 @@ widgets:
   volume:
     type: yasb.volume.VolumeWidget
     options:
-      label: <span>{icon} </span>{level}
-      label_alt: <span>{icon}</span>{level}
+      label: "<span>{icon}</span> {level}"
+      label_alt: "{level}"
       tooltip: true
-      volume_icons:
-      - "\uE74F"
-      - "\uE992"
-      - "\uE993"
-      - "\uE994"
-      - "\uE995"
+      icons:
+        "muted": "\uf026" # Icon for muted
+        "10": "\uf026"  # Icon for 0-10% volume
+        "30": "\uf026"  # Icon for 11-30% volume
+        "60": "\uf026"  # Icon for 31-60% volume
+        "100": "\uf026" # Icon for 61-100% volume
       callbacks:
         on_left: toggle_volume_menu
         on_right: toggle_mute
