@@ -1,4 +1,4 @@
-# Shibumi_YASB
+# Shibumi
 Minimalistic YASB config with several color schemes included.
 
 <img width="3839" height="2159" alt="Screenshot 2026-06-08 010253" src="https://github.com/user-attachments/assets/dfd408e5-2b98-4d3e-be0b-1e503507a2cb" />
