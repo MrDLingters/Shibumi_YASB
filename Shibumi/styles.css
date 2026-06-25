@@ -132,7 +132,7 @@
     --mutedBG: #a4a4a4;
     --border: #a4a4a4;
     --redFlash: #18181b;
-    --subtext: #626262; */
+    --subtext: #727272; */
 
     /* Monochrome Light RED*/
     /* --background: #e5e7eb;
@@ -144,7 +144,7 @@
     --mutedBG: #a4a4a4;
     --border: #a4a4a4;
     --redFlash: #18181b;
-    --subtext: #626262; */
+    --subtext: #b2b2b2; */
 
     --icons-font: "Segoe Fluent Icons";
     --icons-font-fallback: "JetBrainsMono NFP", "JetBrainsMono Nerd Font Propo";
@@ -617,6 +617,7 @@
 .volume-widget .icon {
     color: var(--text);
     font-family: var(--icons-font);
+    padding-right: 5px;
 }
 .audio-menu {
     background-color: var(--background); 
