@@ -41,7 +41,5 @@ Hyprland inspired minimalistic bar with several color schemes available in one C
 <img width="3839" height="2159" alt="Screenshot 2026-06-25 225612" src="https://github.com/user-attachments/assets/13e8275f-29af-4035-938d-d413e7df4d2c" />
 
 # How to change color scheme
-### Open styles.css file in your C:\Users\USENAME\.config\yasb and leave uncommented **ONE** set of variables from "colors" section. Here's a [quick guide video](https://youtu.be/PFH5lKwJ9Dw?si=jJ6s-vyxm7ZkIhD5).
+### Open styles.css file in your C:\Users\USERNAME\\.config\yasb and leave uncommented **ONE** set of variables from "colors" section. Here's a [quick guide video](https://youtu.be/PFH5lKwJ9Dw?si=jJ6s-vyxm7ZkIhD5).
 <img width="1887" height="2050" alt="Screenshot 2026-06-25 223821" src="https://github.com/user-attachments/assets/0cd65d69-8b3d-48ca-abfb-89102854f6de" />
-
-
