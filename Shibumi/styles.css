@@ -788,7 +788,7 @@
     border-radius: var(--border-radiusWallpapers);
 }
 .wallpapers-gallery-image:hover {
-    border: 1px solid var(--accent);
+    border: 2px solid var(--accent);
 }
 
 /* Systray */
