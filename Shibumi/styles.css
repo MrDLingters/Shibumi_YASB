@@ -162,7 +162,7 @@
 /* Global Defaults */
 * {
     font-size: var(--fontSize);
-    font-weight: 400;
+    font-weight: 600;
     font-family: var(--system-font);
     color: var(--text);
 }
@@ -274,7 +274,7 @@
 
 .widget .icon {
     font-size: var(--iconSize);
-    font-weight: 400;
+    font-weight: 600;
     color: var(--yasb-icon-fg);
     font-family: var(--icons-font-fallback);
 }
@@ -596,7 +596,7 @@
 
 .power-menu-compact .button .icon {
     font-size: var(--iconSize);
-    font-weight: 400;
+    font-weight: 600;
     color: var(--text);
     padding-right: 10px;
     min-width: 20px;
@@ -945,7 +945,7 @@ Example: "Windows Media" becomes "windows-media" */
 .media-menu .btn {
     font-family: var(--icons-font);
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 600;
     margin: 10px 2px 0px 2px;
     min-width: 40px;
     max-width: 40px;
@@ -1116,7 +1116,7 @@ Example: "Windows Media" becomes "windows-media" */
 	color: var(--text);
 	font-size: var(--iconSize);
 	font-family: var(--system-font);
-	font-weight: 400;
+	font-weight: 600;
 	padding: 4px 0;
 }
 /* Search prefix styling (e.g., ">" for commands) */
