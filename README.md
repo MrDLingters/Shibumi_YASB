@@ -3,7 +3,8 @@
 <img width="3834" height="83" alt="image" src="https://github.com/user-attachments/assets/e6d31a7b-940a-42ff-a805-642bfa625c2f" />
 
 ### Preview
-<img width="3839" height="2159" alt="Screenshot 2026-06-08 010253" src="https://github.com/user-attachments/assets/dfd408e5-2b98-4d3e-be0b-1e503507a2cb" />
+<img width="3839" height="2159" alt="626203129-9628fe44-b438-48ec-b252-3dc6aa441cfa" src="https://github.com/user-attachments/assets/3e97b3d1-f8f6-4282-a6f8-640359b0ea41" />
+
 
 # Color schemes
 ### Catppuccin Mocha
@@ -41,6 +42,13 @@
 
 ### Tokyo Night
 <img width="3839" height="2159" alt="Screenshot 2026-06-25 225612" src="https://github.com/user-attachments/assets/13e8275f-29af-4035-938d-d413e7df4d2c" />
+
+### Everforest Dark Hard
+<img width="3839" height="2159" alt="Screenshot 2026-08-05 194525" src="https://github.com/user-attachments/assets/71dbd4ad-30bc-449a-9ce1-49400114e22d" />
+
+### Nord
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 234831" src="https://github.com/user-attachments/assets/46517a1c-2e47-4c3c-813c-742a7433cf32" />
+
 
 # How to change color scheme
 ### Open styles.css file in your C:\Users\USERNAME\\.config\yasb and leave uncommented **ONE** set of variables from "colors" section. Here's a [quick guide video](https://youtu.be/PFH5lKwJ9Dw?si=jJ6s-vyxm7ZkIhD5).
