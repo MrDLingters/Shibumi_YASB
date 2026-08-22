@@ -631,7 +631,7 @@
     font-family: var(--system-font);
     background-color: var(--accent);
     padding: 2px 6px 3px 6px;
-    border-radius: 4px;
+    border-radius: var(--border-radius2);
 }
 
 .power-menu-compact .profile-info .profile-email {
