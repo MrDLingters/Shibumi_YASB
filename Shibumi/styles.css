@@ -163,7 +163,7 @@
     --subtext: #4B565C; */
 
     /* MonochromeAccentDark */
-    /* --background: #18181b;
+    --background: #18181b;
     --background2: #3f3f42;
     --accent: var(--yasb-accent-light2);
     --text: #e5e7eb;
@@ -172,7 +172,7 @@
     --mutedBG: #3f3f42;
     --border: #3f3f42;
     --redFlash: #e5e7eb;
-    --subtext: #E5E7EB; */
+    --subtext: #E5E7EB;
 
     /* MonochromeAccentLight*/
     /* --background: #e5e7eb;
@@ -211,7 +211,7 @@
     --subtext: #bdc2cd76; */
 
     /* Kanagawa */
-    --background: #1F1F28;
+    /* --background: #1F1F28;
     --background2: #727169;
     --accent: #C8C093;
     --text: #DCD7BA;
@@ -220,7 +220,7 @@
     --mutedBG: #090618;
     --border: #C0A36E;
     --redFlash: #C34043;
-    --subtext: #C8C093;
+    --subtext: #C8C093; */
 }
 
 /* Global Defaults */
