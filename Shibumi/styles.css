@@ -1269,3 +1269,175 @@ Example: "Windows Media" becomes "windows-media" */
 	padding-top: 8px;
 }
 
+/* CPU widget */
+.cpu-widget .widget-container .icon {
+    color: var(--text);
+    padding-bottom: 1px;
+}
+
+.cpu-widget .widget-container .label {
+    padding-left: 4px;
+}
+.cpu-widget .widget-container .label.alt {
+    padding-left: 4px;
+}
+
+.cpu-popup {
+    background-color: var(--background);
+    min-width: 400px;
+    border: 1px solid var(--border);
+    border-radius: var(--border-radius);
+}
+
+.cpu-popup .header {
+    background: transparent;
+    padding: 12px 16px;
+    color: var(--text);
+}
+.cpu-popup .header .text {
+    font-size: 16px;
+    font-family: "Segoe UI";
+    color: var(--text);
+}
+.cpu-popup .header .pin-btn {
+    font-size: var(--fontSize);
+    background: transparent;
+    font-family: "Segoe Fluent Icons";
+    padding: 6px;
+    color: var(--text);
+}
+.cpu-popup .header .pin-btn:hover {
+    color: var(--hover);
+}
+.cpu-popup .header .pin-btn.pinned {
+    color: var(--accent);
+}
+/* Graph area */
+.cpu-popup .graph-container {
+    background:  transparent;
+    min-height: 64px;
+}
+.cpu-popup .cpu-graph {
+    color: var(--accent);   /* <-- set the graph line/fill color */
+}
+.cpu-popup .cpu-graph-grid {
+    color: var(--background2);  /* set the grid line color */
+}
+.cpu-popup .graph-title {
+    font-size: 12px;
+    color: var(--text);
+    font-family: 'Segoe UI';
+    padding: 0px 0px 4px 14px;
+}
+/* Stats grid */
+.cpu-popup .stats {
+    background: transparent;
+    padding: 16px;
+}
+.cpu-popup .stats .stat-item {
+    background-color: var(--background2);
+    border: 1px solid var(--border);
+    border-radius: var(--border-radius);
+    padding: 8px 12px;
+    margin: 8px;
+}
+.cpu-popup .stats .stat-label {
+    font-size: 13px;
+    color: var(--text);
+    font-family: var(--system-font);
+    font-weight: 400;
+    padding: 6px 4px 2px 4px;
+}
+.cpu-popup .stats .stat-value {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--subtext);
+    font-family: var(--system-font);
+    padding: 0 4px 12px 4px;
+}
+
+/* Memory widget */
+.memory-widget .widget-container .label {
+   padding-left: 4px; 
+}
+.memory-widget .widget-container .label.alt {
+    padding-left: 4px;
+}
+.memory-widget .widget-container .icon {
+    color: var(--text);
+    padding-bottom: 1px;
+}
+
+.memory-popup {
+    background-color: var(--background);
+    min-width: 400px;
+    border: 1px solid var(--border);
+    border-radius: var(--border-radius);
+}
+
+.memory-popup .header {
+    background: transparent;
+    padding: 12px 16px;
+}
+.memory-popup .header .text {
+    font-size: 16px;
+    font-family: "Segoe UI";
+    color: var(--text);
+}
+.memory-popup .header .pin-btn {
+    font-size: 14px;
+    background: transparent;
+    font-family: "Segoe Fluent Icons";
+    border: none;
+    padding: 6px;
+    color: var(--text);
+}
+.memory-popup .header .pin-btn:hover {
+    color: var(--hover);
+}
+.memory-popup .header .pin-btn.pinned {
+    color: var(--accent)
+}
+/* Graph area */
+.memory-popup .graph-container {
+    background:  transparent;
+    min-height: 64px;
+}
+.memory-popup .memory-graph {
+    color: var(--accent);   /* <-- set the graph line/fill color */
+}
+.memory-popup .memory-graph-grid {
+    color: var(--background2);  /* set the grid line color */
+}
+.memory-popup .graph-title {
+    font-size: 12px;
+    color: var(--text);
+    font-family: 'Segoe UI';
+    padding: 0px 0px 4px 14px;
+}
+/* Stats grid */
+.memory-popup .stats {
+    background: transparent;
+    padding: 16px;
+}
+.memory-popup .stats .stat-item {
+    background-color: var(--background2);
+    border: 1px solid var(--border);
+    border-radius: var(--border-radius);
+    padding: 8px 12px;
+    margin: 8px;
+}
+.memory-popup .stats .stat-label {
+    font-size: 13px;
+    color: var(--text);
+    font-family: var(--system-font);
+    font-weight: 400;
+    padding: 6px 4px 2px 4px;
+}
+.memory-popup .stats .stat-value {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--subtext);
+    font-family: var(--system-font);
+    padding: 0 4px 12px 4px;
+}
