@@ -1025,6 +1025,7 @@ Example: "Windows Media" becomes "windows-media" */
     background-color: #2ecc71;
     color: #000000;
 }
+
 .media-menu .btn {
     font-family: var(--icons-font);
     font-size: 14px;
@@ -1035,34 +1036,22 @@ Example: "Windows Media" becomes "windows-media" */
     min-height: 40px;
     max-height: 40px;
     border-radius: 20px;
-    color: var(--accent);
-    background-color: var(--background2);
+    color: var(--accentText);
+    background-color: var(--accent);
 }
 .media-menu .btn.prev {
     margin-left: 10px;
-    color: var(--accent);
 }
 .media-menu .btn:hover {
-    color: var(--mutedBG);
-    background-color: var(--accent);
+    color: var(--accentText);
+    background-color: var(--hover);
 }
 .media-menu .btn.play {
-    background-color: var(--accent);
     font-size: 20px;
-    color: var(--accentText);
-}
-.media-menu .btn.disabled:hover {
-    color: var(--accent);
-    background-color: var(--background);
 }
 
 .media-menu .btn.disabled {
-    background-color: transparent;
-}
-
-.media-menu .btn.play:hover {
-    background-color: var(--text);
-    color: var(--mutedBG);
+    background-color: var(--background2);
 }
 
 .media-menu .playback-time {
